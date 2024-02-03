@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/funeralllllllllllll" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">18 yo, living in 🇷🇺</h3>
-<img src="/home/maxim/banner.png">
+<img src="header.png">
 <!--
 **abl1v1on/abl1v1on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
