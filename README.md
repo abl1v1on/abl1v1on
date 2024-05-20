@@ -2,6 +2,13 @@
 ---
 ### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="50"> About me...
 
+~~~JSON
+{
+  "first_name": "Maxim",
+  "last_name": "Danilov",
+  "city": "Oktyabrskiy"
+}
+~~~
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
