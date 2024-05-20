@@ -18,22 +18,6 @@
       "name": "TG",
       "link": "https://t.me/funeralllllllllllll"
     }
-  ],
-  "technologies": [
-    "backend": [
-      "Python",
-      "Django",
-      "Django Rest Framework",
-      "WebSocket",
-      "FastAPI",
-      "Celery",
-      "Redis"
-    ],
-    "frontend": [
-      "HTML",
-      "CSS",
-      "JS"
-    ]
   ]
 }
 ~~~
