@@ -11,9 +11,11 @@
 
 ### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="30"> About me...
 
-~~~JSON
+~~~HTTP
 GET /planet/earth/russia/bashkortostan/okyabrskiy/?first_name=Maxim&last_name=Danilov
+~~~
 
+~~~JSON
 {
   "first_name": "Maxim",
   "last_name": "Danilov",
