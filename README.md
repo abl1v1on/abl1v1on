@@ -8,7 +8,6 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 ---
-<img align="left" src="img/ao-buta/uzuki_hirokawa.png" width="205px"/> 
 
 ### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="30"> About me...
 
