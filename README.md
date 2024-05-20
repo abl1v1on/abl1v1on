@@ -9,7 +9,7 @@
 
 ---
 ### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="30"> About me...
-
+<img align="left" src="img/ao-buta/uzuki_hirokawa.png" width="205px"/> 
 ~~~JSON
 {
   "first_name": "Maxim",
