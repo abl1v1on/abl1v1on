@@ -5,6 +5,7 @@
 
 <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" width="50"/></a>
 <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="github" width="50"/></a>
+<a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="telegram" width="50"/></a>
 
 [![Discord: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub abl1v1on](https://img.shields.io/github/followers/abl1v1on?label=follow&style=social)](https://github.com/abl1v1on)
