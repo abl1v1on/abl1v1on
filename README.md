@@ -23,6 +23,9 @@
 }
 ~~~
 
-![](https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif)
-
-Hello, Test!
+<div style="display: flex;">
+    <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif" alt="gf" style="margin-right: 10px;">
+    <div>
+        Текст, который вы хотите расположить справа от картинки
+    </div>
+</div>
