@@ -2,23 +2,25 @@
 ---
 ### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="50"> About me...
 
-~~~JSON
-{
-  "first_name": "Maxim",
-  "last_name": "Danilov",
-  "age": 18,
-  "city": "Oktyabrskiy",
-  "social_networks": [
-    {
-      "name": "VK",
-      "link": "https://vk.com/id255272497"
-    },
-    {
-      "name": "TG",
-      "link": "https://t.me/funeralllllllllllll"
-    }
-  ]
-}
-~~~
-
-<img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
+<div style='justify-content: space-between;'>  
+  ~~~JSON
+  {
+    "first_name": "Maxim",
+    "last_name": "Danilov",
+    "age": 18,
+    "city": "Oktyabrskiy",
+    "social_networks": [
+      {
+        "name": "VK",
+        "link": "https://vk.com/id255272497"
+      },
+      {
+        "name": "TG",
+        "link": "https://t.me/funeralllllllllllll"
+      }
+    ]
+  }
+  ~~~
+  
+  <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
+</div>
