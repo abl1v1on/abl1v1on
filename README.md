@@ -1,6 +1,6 @@
 <h2> Hi, I'm Maxim! <img src="https://media1.tenor.com/m/_nicMIu8sNEAAAAC/crazy-deku.gif" width="50"></h2>
 <img align='right' src="https://media.tenor.com/pamYUxtNY84AAAAi/amajaki-tamaki-suneater.gif" width="230">
-<p><em>Beginner web developer <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Beginner web developer <a href="https://www.youtube.com/watch?v=HGutEFXo9os&ab_channel=MW">from Russia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
