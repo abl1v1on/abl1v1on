@@ -21,5 +21,8 @@
   ]
 }
 ~~~
-  
-<img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
+
+<div style="justify-content: space-between;">
+  <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
+  <p>Hello, Test!</p>
+</div>
