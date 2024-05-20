@@ -3,7 +3,7 @@
 <p><em>Beginner web developer <a href="https://www.youtube.com/watch?v=HGutEFXo9os&ab_channel=MW">from Russia  </a><img style="margin-left: 10px;" src="https://media1.tenor.com/m/jyxZEQsz5DoAAAAd/мем-кот.gif" width="30"></br>I'm a third-year college student <a href="https://www.youtube.com/watch?v=mIZevHd0NcE&ab_channel=SoSuD1337">in programming</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Telegram: ThaiiBraga](https://img.shields.io/telegram/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub abl1v1on](https://img.shields.io/github/followers/abl1v1on?label=follow&style=social)](https://github.com/abl1v1on)
 
