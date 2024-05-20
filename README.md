@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <!-- <h3 align="center">18 yo, living in 🇷🇺</h3> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1BF7D7&background=FFB27100&random=false&width=435&lines=Maxim%2C+18+yo%2C+live+in+RUSSIA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1BF7D7&background=FFB27100&random=false&width=435&lines=Maxim%2C+18+yo%2C+live+in+RU)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
