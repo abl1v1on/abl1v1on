@@ -6,7 +6,18 @@
 {
   "first_name": "Maxim",
   "last_name": "Danilov",
-  "city": "Oktyabrskiy"
+  "age": 18,
+  "city": "Oktyabrskiy",
+  "social_networks": [
+    {
+      "name": "VK",
+      "link": "https://vk.com/id255272497"
+    },
+    {
+      "name": "TG",
+      "link": "https://t.me/funeralllllllllllll"
+    }
+  ]
 }
 ~~~
 
