@@ -5,7 +5,9 @@
 
 [![VK](https://img.icons8.com/?size=30&id=13977&format=png&color=000000)](https://vk.com/id255272497)
 [![Telegram](https://img.icons8.com/?size=30&id=63306&format=png&color=000000)](https://t.me/funeralllllllllllll)
+[![Discord](https://img.icons8.com/?size=30&id=30998&format=png&color=000000)]()
 [![GitHub abl1v1on](https://img.shields.io/github/followers/abl1v1on?label=follow&style=social)](https://github.com/abl1v1on)
+
 
 ---
 
