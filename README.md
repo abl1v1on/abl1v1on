@@ -10,7 +10,7 @@
   "city": "Oktyabrskiy",
   "social_networks": [
     {
-      "name": <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="50"> "VK",
+      "name": "VK",
       "link": "https://vk.com/id255272497"
     },
     {
