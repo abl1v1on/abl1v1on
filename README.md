@@ -1,5 +1,5 @@
-<h2> Hi, I'm Maxim! <img src="https://media1.tenor.com/m/_nicMIu8sNEAAAAC/crazy-deku.gif" width="50"></h2>
-<img align='right' src="https://media1.tenor.com/m/_nicMIu8sNEAAAAC/crazy-deku.gif" width="230">
+![image](https://github.com/abl1v1on/abl1v1on/assets/143126168/3309ba7e-54f9-4428-8041-416114301316)<h2> Hi, I'm Maxim! <img src="https://media1.tenor.com/m/_nicMIu8sNEAAAAC/crazy-deku.gif" width="50"></h2>
+<img align='right' src="https://media.tenor.com/pamYUxtNY84AAAAi/amajaki-tamaki-suneater.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
