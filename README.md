@@ -5,7 +5,7 @@
 
 [![Discord: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub abl1v1on](https://img.shields.io/github/followers/abl1v1on?label=follow&style=social)](https://github.com/abl1v1on)
-[![Telegram](https://img.icons8.com/?size=30&id=63306&format=png&color=000000)](https://github.com/abl1v1on)
+[![Telegram](https://img.icons8.com/?size=25&id=63306&format=png&color=000000)](https://github.com/abl1v1on)
     
 ---
 
