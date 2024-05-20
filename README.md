@@ -28,5 +28,3 @@
   ]
 }
 ~~~
-
-<img style="margin: 0 0 0 10px" align='right' src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif" width="380" height="345">
