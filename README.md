@@ -27,11 +27,13 @@
       "WebSocket",
       "FastAPI",
       "Celery",
-      "Redis",
+      "Redis"
+    ],
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JS"
     ]
-    'HTML',
-    'CSS',
-    'JS',
   ]
 }
 ~~~
