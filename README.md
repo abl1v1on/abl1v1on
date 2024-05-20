@@ -1,9 +1,7 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1BF7D7&background=FFB27100&random=false&width=435&lines=Maxim%2C+18+yo%2C+live+in+RU)](https://git.io/typing-svg)
-  ---
-</div>
-### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="30"> About me...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1BF7D7&background=FFB27100&random=false&width=435&lines=Maxim%2C+18+yo%2C+live+in+RU)](https://git.io/typing-svg)
+---
 
+### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="30"> About me...
 
 ~~~JSON
 {
