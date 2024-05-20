@@ -3,7 +3,6 @@
 <p><em>Beginner web developer <a href="https://www.youtube.com/watch?v=HGutEFXo9os&ab_channel=MW">from Russia  </a><img style="margin-left: 10px;" src="https://media1.tenor.com/m/jyxZEQsz5DoAAAAd/мем-кот.gif" width="30"></br>I'm a third-year college student <a href="https://www.youtube.com/watch?v=mIZevHd0NcE&ab_channel=SoSuD1337">in programming</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" width="50"/></a>
 
 [![Discord: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
