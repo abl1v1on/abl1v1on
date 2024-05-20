@@ -22,7 +22,7 @@
 }
 ~~~
 
-<div">
+<div>
   <img style="float: left;" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
   <p style="float: right;">Hello, Test!</p>
 </div>
