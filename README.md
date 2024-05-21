@@ -14,7 +14,7 @@
 ### <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" width="30"> About me...
 
 ~~~HTTP
-GET /planet/earth/russia/rb/okyabrskiy/?full=Maxim+Danilov HTTP
+GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 ~~~
 
 ~~~JSON
