@@ -54,3 +54,21 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 
   <h3>and more...</h3>
 </p>
+
+# Pet projects </> 🌐:
+<img style="border-radius: 30px" hight="300" width="400" alt="GIF" align="left" src="https://media1.tenor.com/m/2afLUVs-0p0AAAAd/shrek-meme.gif">
+<br>
+<p aligh="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,kotlin,androidstudio" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=redis,git,github,docker,bash,html" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=css,jquery,bootstrap,pycharm,idea,vscode" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,obsidian,md,postman,postgres" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/270956/images/3216377/celery.png" width="52"/>
+
+  <h3>and more...</h3>
+</p>
