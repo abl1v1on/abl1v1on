@@ -41,9 +41,9 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 <br>
 <p aligh="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js" />
   <br>
-  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,redis" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,bash" />
   <br>
