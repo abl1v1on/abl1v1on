@@ -56,5 +56,5 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
   <br>
   <img src="https://skillicons.dev/icons?i=postman,postgres,sqlite" />
 
-  <h2>and more...</h2>
+  <h3>and more...</h3>
 </p>
