@@ -42,7 +42,7 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 <br>
 <p aligh="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js" />
-  <img src="https://media.slid.es/thumbnails/secure/041ee8/decks.jpg" width="52" />
+  <img src="https://monexusa.com/wp-content/uploads/2020/08/API_rest_icon-680x0-c-default.png" width="52" />
   <br>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,redis" />
   <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/270956/images/3216377/celery.png" width="52"/>
