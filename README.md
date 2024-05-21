@@ -37,10 +37,10 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 ~~~
 
 
-# Languages & Tools 👨‍💻 🛠:
-<img style="border-radius: 30px" hight="300" width="450" alt="GIF" align="right" src="https://media1.tenor.com/m/2afLUVs-0p0AAAAd/shrek-meme.gif">
 <br>
-<p aligh="left">
+<p aligh="center">
+  # Languages & Tools 👨‍💻 🛠:
+  <img style="border-radius: 30px" hight="300" width="450" alt="GIF" align="right" src="https://media1.tenor.com/m/2afLUVs-0p0AAAAd/shrek-meme.gif">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js" />
   <br>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,redis" />
