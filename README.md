@@ -43,8 +43,7 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 <p aligh="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,kotlin,androidstudio" />
   <br>
-  <img src="https://skillicons.dev/icons?i=redis" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,html" />
+  <img src="https://skillicons.dev/icons?i=redis,git,github,docker,bash,html" />
   <br>
   <img src="https://skillicons.dev/icons?i=css,jquery,bootstrap,pycharm,idea, />
   <img src="https://skillicons.dev/icons?i=vscode,linux" />
