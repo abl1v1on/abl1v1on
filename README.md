@@ -51,7 +51,7 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
   <br>
   <img src="https://skillicons.dev/icons?i=pycharm,idea" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
   <br>
   <img src="https://skillicons.dev/icons?i=obsidian,md,postman" />
   <br>
