@@ -60,5 +60,6 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 
 <div align="center">
   <h1>Pet projects </> 🌐</h1>  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/abl1v1on/test-task-for-hardqode)
 </div>
 
