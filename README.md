@@ -58,6 +58,3 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 <br>
 <br>
 
-<div align="left">
-  <h1>Pet projects </> 🌐</h1>  
-</div>
