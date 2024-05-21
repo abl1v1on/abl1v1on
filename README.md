@@ -54,6 +54,5 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
   <br>
   <img src="https://skillicons.dev/icons?i=ubuntu,debian,obsidian,md" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postman,postgres,sqlite" />
-  <img style="border-radius: 10px" src="https://blog-programmista.ru/uploads/images/websockets/websockets.png" width="60"/>
+  <img src="https://skillicons.dev/icons?i=postman,postgres,sqlite" />"/>
 </p>
