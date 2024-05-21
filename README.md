@@ -41,7 +41,9 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 <br>
 <p aligh="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<!-- ?  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+
 <!--   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" width="140" hight="50">
   </br>
