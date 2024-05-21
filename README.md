@@ -36,6 +36,7 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 }
 ~~~
 
+<img align='right' src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAd/shrek-shrek-rizz.gif" width="230">
 
 # Languages & Tools 👨‍💻 🛠:
 <br>
