@@ -1,4 +1,4 @@
-<h2> Hi, I'm Maxim! <img src="https://media1.tenor.com/m/_nicMIu8sNEAAAAC/crazy-deku.gif" width="50"></h2>
+<h1> Hi, I'm Maxim! <img src="https://media1.tenor.com/m/_nicMIu8sNEAAAAC/crazy-deku.gif" width="50"></h1>
 <img align='right' src="https://media.tenor.com/pamYUxtNY84AAAAi/amajaki-tamaki-suneater.gif" width="230">
 <p><em>Beginner web developer <a href="https://www.youtube.com/watch?v=HGutEFXo9os&ab_channel=MW">from Russia  </a><img style="margin-left: 10px;" src="https://media1.tenor.com/m/jyxZEQsz5DoAAAAd/мем-кот.gif" width="30"></br>I'm a third-year college student <a href="https://www.youtube.com/watch?v=mIZevHd0NcE&ab_channel=SoSuD1337">in programming</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
