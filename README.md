@@ -38,7 +38,7 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 
 
 # Languages & Tools 👨‍💻 🛠:
-<img style="border-radius: 30px" hight="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/y9wCPf0zWTgAAAAC/tobi-naruto.gif">
+<img style="border-radius: 30px" hight="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/D4rofGdjqFUAAAAd/tobi-obito.gif">
 <br>
 <p aligh="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js" />
