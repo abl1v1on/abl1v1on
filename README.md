@@ -21,7 +21,7 @@ GET /planet/earth/russia/rb/okyabrskiy/?full_name=Maxim+Danilov HTTP
 {
   "first_name": "Maxim",
   "last_name": "Danilov",
-  "age": 18,
+  "age": 19,
   "city": "Oktyabrskiy",
   "social_networks": [
     {
